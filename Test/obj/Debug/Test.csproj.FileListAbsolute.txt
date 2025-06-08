@@ -1,0 +1,40 @@
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Test.exe.config
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Test.exe
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Test.pdb
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\KEYENCE_KV8000_ETHERNET_TAG.dll
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Newtonsoft.Json.dll
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\KEYENCE_KV8000_ETHERNET_TAG.pdb
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.csproj.CopyComplete
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.exe
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.pdb
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Test.exe.config
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Test.exe
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\Test.pdb
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\KEYENCE_KV8000_ETHERNET_TAG.dll
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Debug\KEYENCE_KV8000_ETHERNET_TAG.pdb
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.csproj.CopyComplete
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.exe
+D:\personal data\Program source code\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Debug\Test.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Debug\Test.exe.config
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Debug\Test.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Debug\Test.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Debug\KeyenceKVSeriesDriver.dll
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Debug\KeyenceKVSeriesDriver.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CopyComplete
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.pdb
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\Test.exe.config
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\Test.exe
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\Test.pdb
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\KeyenceKVSeriesDriver.dll
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.exe
+C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.pdb

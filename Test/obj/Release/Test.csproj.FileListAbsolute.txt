@@ -1,0 +1,10 @@
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Release\Test.exe.config
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Release\Test.exe
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Release\Test.pdb
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Release\KEYENCE_KV8000_ETHERNET_TAG.dll
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\bin\Release\KEYENCE_KV8000_ETHERNET_TAG.pdb
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.csprojAssemblyReference.cache
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.csproj.CopyComplete
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.exe
+E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.pdb
