@@ -29,12 +29,13 @@ D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.c
 D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CopyComplete
 D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.exe
 D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Debug\Test.pdb
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\Test.exe.config
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\Test.exe
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\Test.pdb
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\bin\Debug\KeyenceKVSeriesDriver.dll
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.csprojAssemblyReference.cache
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.csproj.CopyComplete
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.exe
-C:\Users\ShenX\Desktop\KeyenceKVSeriesSymbolDriver\Test\obj\Debug\Test.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Debug\License.Lib.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Debug\Test.exe.config
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Debug\Test.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Debug\Test.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Debug\KeyenceKVSeriesDriver.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.pdb

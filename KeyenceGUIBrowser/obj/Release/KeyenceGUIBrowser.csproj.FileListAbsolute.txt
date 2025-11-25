@@ -1,0 +1,25 @@
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceGUIBrowser.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceGUIBrowser.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceKVSeriesDriver.dll
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\License.Lib.dll
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceKVSeriesDriver.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csprojAssemblyReference.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.Form1.resources
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.Properties.Resources.resources
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csproj.GenerateResource.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csproj.CopyComplete
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceGUIBrowser.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceGUIBrowser.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\KeyenceKVSeriesDriver.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Release\License.Lib.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.Form1.resources
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.Properties.Resources.resources
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csproj.GenerateResource.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.csproj.CopyComplete
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Release\KeyenceGUIBrowser.pdb

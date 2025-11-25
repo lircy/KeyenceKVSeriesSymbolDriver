@@ -8,3 +8,24 @@ E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.csproj.Co
 E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.csproj.CopyComplete
 E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.exe
 E:\DesktopDoc\socket\KEYENCE_KV8000_ETHERNET_TAG\Test\obj\Release\Test.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Release\Test.exe.config
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Release\Test.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Release\Test.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Release\KeyenceKVSeriesDriver.dll
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Release\License.Lib.dll
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\bin\Release\KeyenceKVSeriesDriver.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Release\Test.csprojAssemblyReference.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Release\Test.csproj.CopyComplete
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Release\Test.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\Test\obj\Release\Test.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Release\Test.exe.config
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Release\Test.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Release\Test.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Release\KeyenceKVSeriesDriver.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\bin\Release\License.Lib.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Release\Test.csproj.CopyComplete
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Release\Test.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Release\Test.pdb

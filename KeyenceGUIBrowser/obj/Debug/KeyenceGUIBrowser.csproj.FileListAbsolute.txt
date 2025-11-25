@@ -1,0 +1,41 @@
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csprojAssemblyReference.cache
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\Debug\OmronNjNxGUIBrowser.Form1.resources
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Properties.Resources.resources
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.GenerateResource.cache
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\bin\Debug\KeyenceGUIBrowser.exe
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\bin\Debug\KeyenceGUIBrowser.pdb
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\bin\Debug\KEYENCE KV8000.dll
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\bin\Debug\KEYENCE KV8000.pdb
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Form1.resources
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Properties.Resources.resources
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.GenerateResource.cache
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CopyComplete
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.exe
+C:\Users\ShenX\Desktop\Keyence\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceGUIBrowser.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceGUIBrowser.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceKVSeriesDriver.dll
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceKVSeriesDriver.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csprojAssemblyReference.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Form1.resources
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Properties.Resources.resources
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.GenerateResource.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CopyComplete
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.exe
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.pdb
+D:\personal data\Program source code\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\License.Lib.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceGUIBrowser.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceGUIBrowser.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\bin\Debug\KeyenceKVSeriesDriver.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Form1.resources
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.Properties.Resources.resources
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.GenerateResource.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.csproj.CopyComplete
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\KeyenceGUIBrowser\obj\Debug\KeyenceGUIBrowser.pdb

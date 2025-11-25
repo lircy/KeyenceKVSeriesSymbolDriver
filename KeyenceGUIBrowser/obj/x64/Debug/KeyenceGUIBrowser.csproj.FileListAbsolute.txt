@@ -1,0 +1,12 @@
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.csprojAssemblyReference.cache
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.Properties.Resources.resources
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.csproj.GenerateResource.cache
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.csproj.CoreCompileInputs.cache
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\bin\x64\Debug\KeyenceGUIBrowser.exe
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\bin\x64\Debug\KeyenceGUIBrowser.pdb
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\bin\x64\Debug\KEYENCE KV8000.dll
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\bin\x64\Debug\KEYENCE KV8000.pdb
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.Form1.resources
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.csproj.CopyComplete
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.exe
+E:\Source Code\OmronHMI2024_7_11\KeyenceGUIBrowser\obj\x64\Debug\KeyenceGUIBrowser.pdb

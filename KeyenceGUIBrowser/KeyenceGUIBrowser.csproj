@@ -51,7 +51,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="KeyenceKVSeriesDriver">
-      <HintPath>..\dll\KeyenceKVSeriesDriver.dll</HintPath>
+      <HintPath>..\Lib\KeyenceKVSeriesDriver.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
