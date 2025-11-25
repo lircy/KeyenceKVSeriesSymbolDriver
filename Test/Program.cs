@@ -15,8 +15,16 @@ namespace Test
             if (status == 0)
             {
                 Console.WriteLine("连接PLC成功");
-                string s = File.ReadAllText("varText.txt");
-                List<string> variableNames = JsonConvert.DeserializeObject<List<string>>(s);
+                IntPtr rootHandle = commDriver.LoadSymbolsFromFile("varText.txt");
+                List<ItemAddress> items = commDriver.LoadAllSymbolicInfo();
+                List<string> variableNames = new List<string>();
+                foreach (ItemAddress item in items)
+                {
+                    if (item != null && item.GetSymbol(out string symbol) == 0)
+                    {
+                        variableNames.Add(symbol);
+                    }
+                }
                 List<string> variableNames_ = variableNames.GetRange(0, 1000);//读取1000个无序变量
                 List<PValue> values = new List<PValue>();
                 //在线获取变量的数据类型

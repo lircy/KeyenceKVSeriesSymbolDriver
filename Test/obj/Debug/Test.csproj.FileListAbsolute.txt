@@ -39,3 +39,12 @@ C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test
 C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.exe
 C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDriver\Test\obj\Debug\Test.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\bin\Debug\Test.exe.config
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\bin\Debug\Test.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\bin\Debug\Test.pdb
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\bin\Debug\KeyenceKVSeriesDriver.dll
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\obj\Debug\Test.exe
+C:\Users\ShenX\Desktop\DiscoverDevices\KeyenceKVSeriesDrivers试用版\KeyenceKVSeriesDriver\Test\obj\Debug\Test.pdb
